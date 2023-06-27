@@ -1,4 +1,4 @@
-# CRYPNET - Cryptography and Network Security
+# CRYPNET - Trustworthy AI, Cryptography and Network Security
 
 Welcome to CRYPNET, the Cryptography and Network Security organization! We are a dedicated group of professionals, researchers, and students focused on advancing the field of cybersecurity, adversarial machine learning, and trustworthy AI.
 
