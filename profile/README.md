@@ -23,7 +23,6 @@ We welcome collaboration and encourage researchers, students, and enthusiasts in
 
 - **Contribute**: If you are interested in contributing to our ongoing projects or have ideas for new initiatives, please reach out to us.
 - **Feedback**: We value feedback and suggestions. If you have any comments or suggestions, feel free to create an issue in the respective project repository.
-- **Follow Us**: Stay up to date with our latest research, publications, and announcements by following us on [Twitter](https://twitter.com/crypnet) and [LinkedIn](https://linkedin.com/company/crypnet).
 
 ## Contact Information
 For inquiries or more information about CRYPNET, please reach out to:
